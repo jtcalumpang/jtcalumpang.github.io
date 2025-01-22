@@ -1,8 +1,28 @@
 .box{
-    
-    height: 100px
+    height: 100px;
 }
-.box1{background-color:pink}
-.box2{background-color:violet}
-.box3{background-color:green}
-.box4{background-color:seagreen}
+
+.box1{
+    background-color: goldenrod;
+}
+.box2{
+    background-color: peru;
+}
+.box3{
+    background-color: peachpuff;
+}
+.box4{
+    background-color: khaki;
+}
+.box5{
+    background-color: burlywood;
+}
+.box6{
+    background-color: red;
+}
+.box7{
+    background-color: green;
+}
+.box-50{
+    height: 50px;
+}
